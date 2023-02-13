@@ -11,3 +11,9 @@ no options to configure - just install and open it
 
 ## download and install
 you can download the .ipa file on the [releases page](https://github.com/ddvniele/respring/releases/latest)
+
+## source code
+no source code published because it's a very stupid and short code lmao
+
+## credits
+thanks to [leminlimez](https://github.com/leminlimez) (Cowabunga's dev) for the respring animation !!
