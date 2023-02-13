@@ -8,3 +8,6 @@ i wanted to create a simple app just to respring my iphone with a clean and smoo
 
 ## options
 no options to configure - just install and open it
+
+## download and install
+you can download the .ipa file on the [releases page](https://github.com/ddvniele/respring/releases/latest)
