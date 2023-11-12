@@ -6,6 +6,9 @@ a simple swiftui app to respring your ios device only by opening it (ios 15.x-16
 
 i wanted to create a simple app just to respring my iphone with a clean and smooth animation (maybe not too necessary but always pleasing to see :P)
 
+## compatibility
+every ios device on ios 15.0-15.7.1 & 16.0-16.1.2
+
 ## options
 no options to configure - just install and open it
 
